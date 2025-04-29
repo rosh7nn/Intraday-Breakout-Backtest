@@ -63,7 +63,7 @@ This repository contains a Python implementation of an **intraday breakout tradi
 **Figure 2:** Yearly Performance (Ending Capital for each year)  
 ![Yearly Performance](Figure_2.png)
 
-**Figure 3:** (Specify here — e.g. Distribution of P&L per Trade, or any other figure this image represents)  
+**Figure 3:** 
 ![Figure 3](figure_3.png)
 
 ---
